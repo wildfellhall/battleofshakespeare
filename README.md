@@ -1,2 +1,2 @@
 # battleofshakespeare
-One Shakespeare poem model and one Shakespeare play model 
+Two models: one including poems and one without
